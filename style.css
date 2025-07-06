@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    margin:10px;
+    padding: 10px;
+}
+nav{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+h3{
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
+}
+p{
+    background-color: black;
+    color: white;
+    font-family:cursive;
+}
+P{
+    font-family: cursive;
+}
+.phone{
+    font-family: cursive;
+}
+main{
+    font-family: cursive;
+    font-size: 20px;
+}
+footer{
+    font-size: 20px;
+}
